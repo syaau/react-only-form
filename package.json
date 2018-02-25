@@ -1,0 +1,19 @@
+{
+  "name": "react-only-form",
+  "version": "0.1.0",
+  "description": "A react form component to work with only form data (no styles)",
+  "main": "__dist__/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/syaau/react-only-form.git"
+  },
+  "author": "Ranjan Shrestha",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/syaau/react-only-form/issues"
+  },
+  "homepage": "https://github.com/syaau/react-only-form#readme"
+}
